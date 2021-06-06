@@ -5,7 +5,7 @@
 
 * [Link to Problem](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 * Time : 8 ms
-* Memory : nan
+* Memory : 38.8 MB
 * Language : Java
 
 ## Author
