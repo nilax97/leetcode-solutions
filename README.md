@@ -2,7 +2,7 @@
 A collection of my solutions to some LeetCode Problems
 
 | Problem Name | Solution Link | Language | Runtime | Memory used |
-|-------------|-------------|-------------|-------------|-------------|
+|---------------------|---------|---------|---------|---------|
 |[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Custom%20Sort%20String/solution.py) | Python | 32 ms | 14.4 MB |
 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Maximum%20Depth%20of%20Binary%20Tree/solution.py) | Python | 40 ms | 14.9 MB |
 |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Middle%20of%20the%20Linked%20List/solution.py) | Python | 32 ms | 13.8 MB |
@@ -93,7 +93,7 @@ A collection of my solutions to some LeetCode Problems
 |[N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/N-Queens%20II/solution.py) | Python | 52 ms | 14.1 MB |
 |[Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Word%20Ladder/solution.py) | Python | 456 ms | 15.1 MB |
 |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/First%20Bad%20Version/solution.py) | Python | 20 ms | 12.7 MB |
-|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Implement%20strStr()/solution.py) | Python | 36 ms | 12.8 MB |
+|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Implement%20strStr%28%29/solution.py) | Python | 36 ms | 12.8 MB |
 |[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Path%20With%20Minimum%20Effort/solution.py) | Python | 744 ms | 16.9 MB |
 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Container%20With%20Most%20Water/solution.py) | Python | 180 ms | 16.4 MB |
 |[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Boats%20to%20Save%20People/solution.py) | Python | 1364 ms | 22.2 MB |
@@ -297,7 +297,7 @@ A collection of my solutions to some LeetCode Problems
 |[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Uncrossed%20Lines/solution.py) | Python | 368 ms | 17.3 MB |
 |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Shortest%20Unsorted%20Continuous%20Subarray/solution.py) | Python | 204 ms | 15.1 MB |
 |[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/solution.py) | Python | 504 ms | 99.5 MB |
-|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/String%20to%20Integer%20(atoi)/solution.py) | Python | 36 ms | 12.9 MB |
+|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/String%20to%20Integer%20%28atoi%29/solution.py) | Python | 36 ms | 12.9 MB |
 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Longest%20Common%20Prefix/solution.py) | Python | 32 ms | 12.8 MB |
 |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Kth%20Smallest%20Element%20in%20a%20BST/solution.py) | Python | 52 ms | 16.7 MB |
 |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Combination%20Sum%20III/solution.py) | Python | 32 ms | 13.6 MB |
