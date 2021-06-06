@@ -13,7 +13,7 @@ A collection of my solutions to some LeetCode Problems
  
 MIT License
 
-Copyright (c) 2020 Nilaksh Agarwal
+Copyright (c) 2021 Nilaksh Agarwal
 
 ## Table of Contents
 =================
