@@ -15,8 +15,6 @@ MIT License
 
 Copyright (c) 2020 Nilaksh Agarwal
 
-***
-
 ## Table of Contents
 =================
 
