@@ -1,6 +1,25 @@
 # leetcode-solutions
 A collection of my solutions to some LeetCode Problems
 
+## Author
+
+**Nilaksh Agarwal**
+
+* Website: [nilax97.github.io](https://nilax97.github.io/)
+* Github: [@nilax97](https://github.com/nilax97)
+* LinkedIn: [@nilaksh97](https://linkedin.com/in/nilaksh97)
+
+## License
+ 
+MIT License
+
+Copyright (c) 2020 Nilaksh Agarwal
+
+***
+
+## Table of Contents
+=================
+
 | Problem Name | Solution Link | Language | Runtime | Memory used |
 |:-----------------------|:--------:|:--------:|:----------:|:--------:|
 |[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Custom%20Sort%20String/solution.py) | Python | 32 ms | 14.4 MB |
