@@ -1,4 +1,4 @@
-# leetcode-solutions
+# LeetCode Solutions
 A collection of my solutions to some LeetCode Problems
 
 ## Author
