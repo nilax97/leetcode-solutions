@@ -1,0 +1,23 @@
+# Delete Operation for Two Strings
+
+
+## Details
+
+* [Link to Problem](https://leetcode.com/problems/delete-operation-for-two-strings/)
+* Time : 324 ms
+* Memory : 16 MB
+* Language : Python
+
+## Author
+
+**Nilaksh Agarwal**
+
+* Website: [nilax97.github.io](https://nilax97.github.io/)
+* Github: [@nilax97](https://github.com/nilax97)
+* LinkedIn: [@nilaksh97](https://linkedin.com/in/nilaksh97)
+
+## License
+
+MIT License
+
+Copyright (c) 2021 Nilaksh Agarwal
