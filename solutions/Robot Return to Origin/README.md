@@ -5,7 +5,7 @@
 
 * [Link to Problem](https://leetcode.com/problems/robot-return-to-origin/)
 * Time : 20 ms
-* Memory : nan
+* Memory : 41.5 MB
 * Language : Java
 
 ## Author
