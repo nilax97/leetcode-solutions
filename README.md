@@ -2,7 +2,7 @@
 A collection of my solutions to some LeetCode Problems
 
 | Problem Name | Solution Link | Language | Runtime | Memory used |
-|-----------------------|--------|--------|----------|--------|
+|:-----------------------|:--------:|:--------:|:----------:|:--------:|
 |[Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Custom%20Sort%20String/solution.py) | Python | 32 ms | 14.4 MB |
 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Maximum%20Depth%20of%20Binary%20Tree/solution.py) | Python | 40 ms | 14.9 MB |
 |[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/nilax97/leetcode-solutions/blob/master/Middle%20of%20the%20Linked%20List/solution.py) | Python | 32 ms | 13.8 MB |
