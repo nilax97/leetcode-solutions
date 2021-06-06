@@ -5,7 +5,7 @@
 
 * [Link to Problem](https://leetcode.com/problems/hamming-distance/)
 * Time : 12 ms
-* Memory : nan
+* Memory : 37.7 MB
 * Language : Java
 
 ## Author

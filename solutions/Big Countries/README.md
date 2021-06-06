@@ -5,7 +5,7 @@
 
 * [Link to Problem](https://leetcode.com/problems/big-countries/)
 * Time : 248 ms
-* Memory : nan
+* Memory : 0B
 * Language : MySQL
 
 ## Author
