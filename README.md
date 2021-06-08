@@ -16,7 +16,6 @@ MIT License
 Copyright (c) 2021 Nilaksh Agarwal
 
 ## Table of Contents
-=================
 
 | Problem Name | Solution Link | Language | Runtime | Memory used |
 |:-----------------------|:--------:|:--------:|:----------:|:--------:|
